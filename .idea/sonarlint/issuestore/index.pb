@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+n
+>src/main/java/finalVariable_FinalMethod_FinalClass/Animal.java,5\9\59c503fb4951cc395ca66a4b590c21b8fe00ddb9
+l
+<src/main/java/finalVariable_FinalMethod_FinalClass/Main.java,7\9\79570678e2d0e33d25a7beb25044dec454c67885
+Y
+)src/main/java/collection_stream/Main.java,6\3\63689a70d08cb9394aa1d7aa93dbf8f93fde8205
+G
+src/main/java/Test.java,b\6\b660a5f333c00ef78dec1d85c727eb000157c1f3
+d
+4src/main/java/create_new_object/clone/MainClass.java,d\9\d9a58f1c7003106403d4b2163061bd96815b9052
+p
+@src/main/java/create_new_object/clone/CreateObjectWithClone.java,6\8\68da26104b0ee4b44465ac233362d91e27304d48
+}
+Msrc/main/java/create_new_object/class_loader/CreateObjectWithClassLoader.java,0\3\03476bed356e9dae3d21ade8c299e75102dd4cf6
+k
+;src/main/java/create_new_object/class_loader/MainClass.java,5\0\50b78460d3d41ad6460e700f98e9ff31656b643a
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+z
+Jsrc/main/java/create_new_object/reflectionVSbuilder/CreateObjectClass.java,2\2\227079b261721a1fb09317903f32ecaeec048c16
+r
+Bsrc/main/java/create_new_object/reflectionVSbuilder/MainClass.java,0\4\04f8be026adab0c69faa7a6b8d6bc0694d23eba4

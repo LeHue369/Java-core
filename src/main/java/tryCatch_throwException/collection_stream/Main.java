@@ -1,4 +1,4 @@
-package collection_stream;
+package tryCatch_throwException.collection_stream;
 
 import javax.sound.midi.Soundbank;
 import java.io.IOException;
