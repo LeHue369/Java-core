@@ -18,18 +18,18 @@ public class Main {
         System.out.println("t2 threadPriority : " + t2.getPriority());
         System.out.println("t3 threadPriority : " + t3.getPriority());
 
-        t1.setPriority(2);
-        t2.setPriority(5);
-        t3.setPriority(8);
-
-        System.out.println("t1 threadPriority : " + t1.getPriority());
-        System.out.println("t2 threadPriority : " + t2.getPriority());
-        System.out.println("t3 threadPriority : " + t3.getPriority());
-
-        System.out.println("Current executing thread : " + Thread.currentThread().getName());
-        System.out.println("Current executing priority : " + Thread.currentThread().getPriority());
-
-        Thread.currentThread().setPriority(10);
-        System.out.println("Current executing priority : " + Thread.currentThread().getPriority());
+//        t1.setPriority(1);
+//        t2.setPriority(1);
+//        t3.setPriority(1);
+//
+//        System.out.println("t1 threadPriority : " + t1.getPriority());
+//        System.out.println("t2 threadPriority : " + t2.getPriority());
+//        System.out.println("t3 threadPriority : " + t3.getPriority());
+//
+//        System.out.println("Current executing thread : " + Thread.currentThread().getName());
+//        System.out.println("Current executing priority : " + Thread.currentThread().getPriority());
+//
+//        Thread.currentThread().setPriority(17);
+//        System.out.println("Current executing priority : " + Thread.currentThread().getPriority());
     }
 }

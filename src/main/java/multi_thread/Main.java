@@ -7,8 +7,8 @@ public class Main {
             MultithreadThing myThing = new MultithreadThing(i);
             Thread myThread = new Thread(myThing);
             myThread.start();
-            //myThread.join(); --- stop others thread, wait for just one to be completely finished
-            System.out.println(myThread.isAlive()); //--- check if threads are still alive
+//            //myThread.join(); --- stop others thread, wait for just one to be completely finished
+//            System.out.println(myThread.isAlive()); //--- check if threads are still alive
         }
     }
 
