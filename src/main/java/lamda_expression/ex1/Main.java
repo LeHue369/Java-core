@@ -1,6 +1,5 @@
 package lamda_expression.ex1;
 
-import java.lang.invoke.StringConcatException;
 import java.util.Comparator;
 
 public class Main {

@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        ArrayList<Student> list = new ArrayList();
+        ArrayList<try1.Student> list = new ArrayList();
 
         for(int i = 0; ; i++){
             // input a whole string or infomation
@@ -19,7 +19,7 @@ public class Main {
                 name += s[j]+" ";
             }
 
-            Student student = new Student(Integer.parseInt(s[0]),
+            try1.Student student = new try1.Student(Integer.parseInt(s[0]),
                     name, Double.parseDouble(s[s.length-1]));
 
             // student.getName().trim().equals("0") means eliminating the space at the end and the beginning of a string
@@ -28,7 +28,7 @@ public class Main {
             list.add(student);
         }
 
-        for(Student i: list){
+        for(try1.Student i: list){
             System.out.println(i);
         }
     }

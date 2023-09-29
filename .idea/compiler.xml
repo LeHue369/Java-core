@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Java_core_NCC" />
         <module name="Java_core" />
+        <module name="Java-core" />
       </profile>
     </annotationProcessing>
   </component>
