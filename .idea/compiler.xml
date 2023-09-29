@@ -7,10 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Java_core_NCC" />
-        <module name="Java_core" />
         <module name="Java-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Java-core" target="9" />
+    </bytecodeTargetLevel>
   </component>
 </project>
