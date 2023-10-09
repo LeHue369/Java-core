@@ -10,6 +10,8 @@ public class Main {
 		System.out.println(rectangle.computeArea());
 
 		Square square = new Square(10);
+//		square.setHeight(50);
+//		square.setWidth(50);
 		System.out.println(square.computeArea());
 
 		useRectangle(rectangle);

@@ -1,6 +1,13 @@
 package solid.liskovsubstitutionprinciple;
 
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
 public class Square implements Shape{
+
+//	public Square(int side) {
+//		super(side, side);
+//	}
 
   private int side;
 
