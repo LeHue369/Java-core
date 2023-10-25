@@ -1,4 +1,4 @@
-package creationaldesignpattern.builderpattern;
+package creationaldesignpattern.builder;
 
 public interface UserDTO {
 

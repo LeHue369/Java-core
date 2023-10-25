@@ -1,4 +1,4 @@
-package creationaldesignpattern.factorydesignpattern;
+package creationaldesignpattern.factory;
 
 public class Boss {
 

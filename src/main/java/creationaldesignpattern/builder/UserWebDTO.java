@@ -1,4 +1,4 @@
-package creationaldesignpattern.builderpattern;
+package creationaldesignpattern.builder;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
